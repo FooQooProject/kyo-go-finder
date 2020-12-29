@@ -1,0 +1,100 @@
+<mxfile host="65bd71144e" modified="2020-12-29T02:15:31.527Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.0 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" version="13.10.0" etag="QJfoeI4cFvEEs3SQdxBx" type="embed">
+    <diagram id="ofY21uMyVS7fAHPw4X8L" name="Page-1">
+        <mxGraphModel dx="189" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="60" width="340" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="40" y="40" width="60" height="122.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="8">
+                    <mxGeometry width="60" height="122.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.cell_phone;fillColor=#005073;strokeColor=none;" vertex="1" parent="8">
+                    <mxGeometry x="17.5" y="52.5" width="25" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="8">
+                    <mxGeometry x="5" y="12.5" width="50" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Client" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="8">
+                    <mxGeometry x="5" y="102.5" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Hosting Server" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="131.25" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=1;startArrow=block;startFill=1;" edge="1" parent="1" source="7" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="140" y="101.09999999999997" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;" edge="1" parent="1" source="15" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+                    <mxGeometry x="135" y="71.25" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Firebase" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.firebase;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="15">
+                    <mxGeometry width="32.4" height="45" relative="1" as="geometry">
+                        <mxPoint x="5" y="7" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;" edge="1" parent="1" source="17" target="21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="71.25" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Cloud&#10;Functions" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_functions;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="17">
+                    <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+                        <mxPoint x="5" y="-19.5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="Backend Function" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="131.25" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=block;endFill=1;entryX=0.5;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=1.037;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="21" target="26">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+                    <mxGeometry x="465" y="70.75" width="110" height="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="App&#10;Engine" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=app_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="21">
+                    <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+                        <mxPoint x="5" y="-19.5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="Cloud&#10;Firestore" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_firestore" vertex="1" parent="1">
+                    <mxGeometry x="509" y="170" width="66" height="58.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="VPC Network" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="240" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="CORS" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="235" y="80" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;entryX=0.156;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="31" target="21">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="480" y="140" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="162.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Cloud&#10;Functions" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_functions;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="31">
+                    <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+                        <mxPoint x="5" y="-19.5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="Batch Function" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="222.5" width="100" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
